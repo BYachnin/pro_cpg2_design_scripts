@@ -14,4 +14,9 @@ The deep_seq_magicblast.R script analyses next-generation sequencing data.  The 
 
 # Publication Information
 
-The manuscript that uses these scripts is currently unpublished.  This file will be updated with publication information once it is available.
+The manuscript that uses these scripts is currently unpublished.  It is currently available as a pre-print:
+Massively parallel, computationally-guided design of a pro-enzyme
+Brahm J. Yachnin, Laura R. Azouz, Ralph E. White III, Conceição A. S. A. Minetti, David P. Remeta, Victor M. Tan, Justin M. Drake, Sagar D. Khare
+bioRxiv 2021.03.25.437042; doi: https://doi.org/10.1101/2021.03.25.437042
+
+This file will be updated with publication information once it is available.
