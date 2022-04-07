@@ -1,6 +1,6 @@
 # Scripts from Massively parallel, computationally-guided design of a pro-enzyme
 
-This repository contains scripts used in our unpublished manuscript, "Massively parallel, computationally-guided design of a pro-enzyme," which describes a computational approach and screening method to design pro-enzymes of an FDA-approved therapeutic enzyme, carboxypeptidase G2.
+This repository contains scripts used in our manuscript, "Massively parallel, computationally guided design of a proenzyme," which describes a computational approach and screening method to design pro-enzymes of an FDA-approved therapeutic enzyme, carboxypeptidase G2.
 
 XML scripts used to generate are maintained in the [rosetta_scripts_scripts repository](https://github.com/RosettaCommons/rosetta_scripts_scripts) and are available with public releases of Rosetta.
 
@@ -14,9 +14,7 @@ The deep_seq_magicblast.R script analyses next-generation sequencing data.  The 
 
 # Publication Information
 
-The manuscript that uses these scripts is currently unpublished.  It is currently available as a pre-print:
-Massively parallel, computationally-guided design of a pro-enzyme
-Brahm J. Yachnin, Laura R. Azouz, Ralph E. White III, Conceição A. S. A. Minetti, David P. Remeta, Victor M. Tan, Justin M. Drake, Sagar D. Khare
-bioRxiv 2021.03.25.437042; doi: https://doi.org/10.1101/2021.03.25.437042
-
-This file will be updated with publication information once it is available.
+The manuscript that uses these scripts is published.  Please cite the following article if you use these scripts:
+Massively parallel, computationally guided design of a proenzyme
+Brahm J. Yachnin, Laura R. Azouz, Ralph E. White III, Conceição A. S. A. Minetti, David P. Remeta, Victor M. Tan, Justin M. Drake, Sagar D. Khare.
+*Proc Natl Acad Sci U S A*. **119** (15): e2116097119; doi: https://doi.org/10.1073/pnas.2116097119
